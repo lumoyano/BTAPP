@@ -1,0 +1,15 @@
+{
+  "name": "btapp",
+  "version": "1.0.0",
+  "description": "Best TA App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Lucas Almeida",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^27.0.2"
+  }
+}
